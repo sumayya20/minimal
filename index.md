@@ -7,3 +7,4 @@
 
 In this case study, EDA is used to understand how consumer attributes and loan attributes influence the tendency of default.
 
+<center><img src="assets/img/risk_analytics.png"/></center>
